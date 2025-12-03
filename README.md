@@ -10,14 +10,6 @@ An Android application built using **Kotlin & Ola Maps SDK** that allows users t
 
 ---
 
-## 🧑‍💻 Developer
-
-**Sudarmani B**  
-- B.Sc Computer Science (2022–2025)  
-- Ayya Nadar Janaki Ammal College, Sivakasi  
-- Android App Developer & Full Stack Web Developer  
-
----
 
 ## ✨ Features
 
